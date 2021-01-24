@@ -1,0 +1,17 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş£ËÌıÿÿÿÿ8ººÊ’ò.
+E
+java:S1172!"(Remove this unused method parameter "o".(¤ØßÃ8£‘Ó’ò.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì…ıüÿÿÿÿ8äÑĞ’ò.
+L
+java:S1172"*Remove this unused method parameter "pos".(º¢àîşÿÿÿÿ8¦Ï’ò.
+V
+java:S3400"9Remove this method and declare a constant for this value.(±üÌ8¾åÑ’ò.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆöô8‘ÊÆ’ò.
+L
+java:S1068"*Remove this unused "ultima" private field.(­ú¶ùÿÿÿÿ8ç£äˆó.
+w
+java:S1450"URemove the "ultima" field and declare it as a local variable in the relevant methods.(­ú¶ùÿÿÿÿ8‰áçˆó.
